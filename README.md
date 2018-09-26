@@ -4,6 +4,22 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+## Introduction
+
+This project was one I did for my Udacity Artificial Intelligence and Specializations Nanodegree. Their instructions are given below following "Project Overview".
+
+To view my completed project, instead of Step 1 in their instructions, do the following:
+
+1. Clone the repository and navigate to the downloaded folder.
+```	
+git clone https://github.com/cpadiernos/dog-project.git
+cd dog-project
+```
+
+and then continue as normal with the remaining steps.
+
+I've also included an HTML for easy viewing.
+
 ## Project Overview
 
 Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, you will learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
